@@ -219,6 +219,11 @@ h4 {
   height: 100vh;
 }
 
+.tutor_linkedin_profile_link,
+.course_linkedin_profile_link {
+  text-decoration: none;
+}
+
 /* Social Media Icons */
 .skype_icon {
   color: #00aff0;
