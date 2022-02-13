@@ -21,6 +21,16 @@ h4 {
   font-weight: 300;
 }
 
+/* Animation Effects */
+/* .animate__animated.fadeIn {
+  --animate-duration: 10s !important;
+} */
+
+:root {
+  --animate-duration: 4000ms;
+  --animate-delay: 0.9s;
+}
+
 /* Anchor point for scrolling */
 .scrollAnchor {
   line-height: 1px !important;
