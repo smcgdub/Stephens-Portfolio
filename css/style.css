@@ -234,6 +234,18 @@ h4 {
   text-decoration: none;
 }
 
+.udemy_logo {
+  width: 90px;
+}
+
+.course_udemy_profile_link {
+  text-decoration: none;
+}
+
+.fa-globe:before {
+  color: #000;
+}
+
 /* Social Media Icons */
 .skype_icon {
   color: #00aff0;
