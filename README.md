@@ -1,0 +1,1 @@
+Favicon colour = #9966ff
