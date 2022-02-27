@@ -189,6 +189,12 @@ h4 {
   width: 100vw;
 }
 
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  /* color: orange !important; */
+  background-color: gray;
+}
+
 /* Contact Me Form*/
 .fa-user:before {
   margin-right: 10px;
